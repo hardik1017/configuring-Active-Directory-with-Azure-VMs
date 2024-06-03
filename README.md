@@ -12,15 +12,21 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- <h2>Microsoft Azure (Virtual Machines/Compute)
+ ![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/4a6602eb-08fb-4579-92db-9effa88e2c6e)
+ 
+-<h2>Remote Desktop
+![Screenshot 2024-05-25 183916](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/622e12c0-9911-41a8-ad28-1cce13e81d25)
+
 - Active Directory Domain Services
 - PowerShell
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
+- <h2>Windows 10</b> (21H2)
+ ![Screenshot 2024-05-25 183223](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/1e87bc76-a447-42d8-a23e-ec59f2766a5f)
+
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
