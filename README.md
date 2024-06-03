@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
   ![Active-Directory-Domain-Services-tutorial2](https://github.com/hardik1017/configuring-Active-Directory-with-Azure-VMs/assets/170269652/cca7229f-6cfe-4029-b797-b3580e1b0d92)
 
 
-- PowerShell
+- <h2>PowerShell</h2>
 
 <h2>Operating Systems Used </h2>
 
