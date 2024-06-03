@@ -13,9 +13,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Environments and Technologies Used</h2>
 
 - <h2>Microsoft Azure (Virtual Machines/Compute)
+
  ![Screenshot 2024-05-25 162102](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/4a6602eb-08fb-4579-92db-9effa88e2c6e)
  
 -<h2>Remote Desktop
+
 ![Screenshot 2024-05-25 183916](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/622e12c0-9911-41a8-ad28-1cce13e81d25)
 
 - Active Directory Domain Services
