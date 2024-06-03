@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
+-    <h2>Windows Server 2022 </b> (21H2)
   ![windows server](https://github.com/hardik1017/configuring-Active-Directory-with-Azure-VMs/assets/170269652/2dfb13d7-e93f-4d20-b3e6-bd269985d1cf)
 
 - <h2>Windows 10</b> (21H2)
