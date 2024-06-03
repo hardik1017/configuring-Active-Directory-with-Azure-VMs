@@ -21,7 +21,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![Screenshot 2024-05-25 183916](https://github.com/hardik1017/osticket-post-installation-config/assets/170269652/622e12c0-9911-41a8-ad28-1cce13e81d25)
 
 - Active Directory Domain Services
-  ![Active-Directory-Domain-Services-tutorial](https://github.com/hardik1017/configuring-Active-Directory-with-Azure-VMs/assets/170269652/398ac1bf-4782-45b4-874b-0c21a9e5a116)
+  ![Active-Directory-Domain-Services-tutorial2](https://github.com/hardik1017/configuring-Active-Directory-with-Azure-VMs/assets/170269652/cca7229f-6cfe-4029-b797-b3580e1b0d92)
+
 
 - PowerShell
 
